@@ -1,8 +1,8 @@
 nome = 'Jonatas Dias'
 sobrenome = 'Last'
 idade = 36
-ano_nascimento = 1988
-maior_de_idade = 18
+ano_nascimento = 2024 - idade
+maior_de_idade = idade >= 18
 altura_metros = 1.75
 
 print('Nome:', nome)
